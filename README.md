@@ -1,3 +1,5 @@
 1.2
 ===
-See beaverslider.com
+Free jQuery image gallery (slider)
+
+See beaverslider.com for details
