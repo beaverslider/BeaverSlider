@@ -2,4 +2,4 @@
 ===
 Free jQuery image gallery (slider)
 
-See beaverslider.com for details
+See http://beaverslider.com for details
