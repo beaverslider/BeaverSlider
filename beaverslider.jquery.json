@@ -3,17 +3,16 @@
     "title": "BeaverSlider",
     "description": "A jQuery widget for making slideshow",
     "keywords": [
-        "slider",
         "slideshow",
         "gallery"
     ],
     "version": "1.2",
     "author": {
-        "name": "Semen Bobrov"
+        "name": "simonellez"
     },
     "maintainers": [
         {
-            "name": "Natalia Bobrova"
+            "name": "simonellez"
         }
     ],
     "licenses": [
