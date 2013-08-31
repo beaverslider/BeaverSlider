@@ -1,0 +1,32 @@
+{
+    "name": "beaverslider",
+    "title": "BeaverSlider",
+    "description": "A jQuery widget for making slideshow",
+    "keywords": [
+        "slider",
+        "slideshow",
+        "gallery"
+    ],
+    "version": "1.2",
+    "author": {
+        "name": "Semen Bobrov"
+    },
+    "maintainers": [
+        {
+            "name": "Natalia Bobrova"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "Freeware",
+            "url": "http://beaverslider.com"
+        }
+    ],
+    "bugs": "http://beaverslider.com/feedback",
+    "homepage": "http://beaverslider.com",
+    "docs": "http://beaverslider.com/how-to-setup",
+    "download": "http://beaverslider.com/download",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
