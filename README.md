@@ -1,4 +1,4 @@
-1.4
+2.0.0
 ===
 Free jQuery image gallery (slider)
 
